@@ -19,6 +19,7 @@ int main()
       color pixel_color(double(i) / (image_width - 1), double(j) / (image_height - 1), 0.25);
       write_color(std::cout, pixel_color);
     }
-    std::cerr << "\nDone.\n";
-    return 0;
   }
+  std::cerr << "\nDone.\n";
+  return 0;
+}
