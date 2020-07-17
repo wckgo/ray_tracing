@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "memory": "cpp",
+    "cstdlib": "cpp",
+    "limits": "cpp"
+  }
+}
