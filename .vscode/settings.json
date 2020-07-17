@@ -3,6 +3,7 @@
     "*.vue": "vue",
     "memory": "cpp",
     "cstdlib": "cpp",
-    "limits": "cpp"
+    "limits": "cpp",
+    "cmath": "cpp"
   }
 }
